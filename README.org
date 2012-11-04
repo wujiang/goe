@@ -1,7 +1,7 @@
 * Go Lang Examples
 
 ** Purpose
-  - Just for fun and learn
+  - Just for fun
 
 ** Plans
   - [[https://github.com/wujiang/goe/tree/master/bqe][bqe]]: examples for "A pure Go postgres driver for database/sql" [[https://github.com/bmizerany/pq][pq]]

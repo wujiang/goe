@@ -3,5 +3,5 @@
 ** Purpose
   - Just for fun and learn
 
-** Plan
-*** TODO [[https://github.com/bmizerany/pq][bq]]
+** Plans
+  - [[https://github.com/wujiang/goe/tree/master/bqe][bqe]]: examples for "A pure Go postgres driver for database/sql" [[https://github.com/bmizerany/pq][pq]]

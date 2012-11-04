@@ -1,0 +1,7 @@
+* Go Lang Examples
+
+** Purpose
+  - Just for fun and learn
+
+** Plan
+*** TODO [[https://github.com/bmizerany/pq][bq]]

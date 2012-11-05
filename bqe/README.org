@@ -1,0 +1,7 @@
+** Requirement
+  - get the pq library =go get github.com/bmizerany/pq=
+
+** Run
+  - you can either build an ELF executable by doing =go build foo.go=,
+    then run =foo=
+  - or you can run a go file directly by doing =go run foo.go=
